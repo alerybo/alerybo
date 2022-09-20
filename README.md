@@ -12,7 +12,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-a39481?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="margin: 5px"/>
     </a>
     <a href="https://www.instagram.com/skeczbuk/">
-        <img src="https://img.shields.io/badge/instagram-d4c09f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" style="margin: 5px"/>
+        <img src="https://img.shields.io/badge/instagram-d4c09f?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn Badge" style="margin: 5px"/>
     </a>
 </div>
 
