@@ -27,7 +27,7 @@
 ![CSS3](https://img.shields.io/badge/css3-4a4a4a.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-4a4a4a.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/react-4a4a4a.svg?style=for-the-badge&logo=react&logoColor=white)
-![styled-components](https://img.shields.io/badge/styled-components-4a4a4a.svg?style=for-the-badge&logo=styled-components&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled%20components-4a4a4a.svg?style=for-the-badge&logo=styled%20components&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-4a4a4a.svg?style=for-the-badge&logo=firebase&logoColor=white)
 
 ### Currently Learning: <br/>
