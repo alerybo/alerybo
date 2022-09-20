@@ -1,16 +1,14 @@
-### Hi there 👋
+<div id="header" align="center">
+    <h1>Hi there!</h1>
+</div>
 
-<!--
-**alerybo/alerybo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a frontend developer and illustrator based in Warsaw. 
 
-Here are some ideas to get you started:
+ <a href="https://arybolowicz.netlify.app/">
+        <img src="https://img.shields.io/badge/https://arybolowicz.netlify.app/-55A4A7?style=for-the-badge" alt="Portfolio Badge" style="margin: 5px"/></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+Contact me: olarybolowicz@gmail.com
+
