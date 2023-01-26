@@ -29,6 +29,8 @@
 ![React](https://img.shields.io/badge/react-4a4a4a.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled%20components-4a4a4a.svg?style=for-the-badge&logo=styled%20components&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-4a4a4a.svg?style=for-the-badge&logo=firebase&logoColor=white)
+![Next](https://img.shields.io/badge/Next-4a4a4a?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-4a4a4a.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Currently Learning: <br/>
 ![Node.js](https://img.shields.io/badge/node.js-4a4a4a.svg?style=for-the-badge&logo=node.js&logoColor=white)
